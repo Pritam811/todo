@@ -1,0 +1,14 @@
+.tag{
+    font-size: .9rem;
+    font-weight: 500;
+    background-color: white;
+    border: 1px solid rgb(232, 225, 225);
+    border-right: 1px solid salmon;
+    border-bottom: 1px solid salmon;
+    border-radius: 4px;
+    box-shadow: 1px;
+    padding: 2px 6px;
+    margin-right: 5px;
+    cursor: pointer;
+    height: 25px;
+}
